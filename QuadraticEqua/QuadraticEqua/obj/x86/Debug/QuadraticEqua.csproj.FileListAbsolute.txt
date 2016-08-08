@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\QuadraticEqua\QuadraticEqua\bin\Debug\QuadraticEqua.exe
+c:\users\jake\documents\visual studio 2010\Projects\QuadraticEqua\QuadraticEqua\bin\Debug\QuadraticEqua.pdb
+c:\users\jake\documents\visual studio 2010\Projects\QuadraticEqua\QuadraticEqua\obj\x86\Debug\QuadraticEqua.exe
+c:\users\jake\documents\visual studio 2010\Projects\QuadraticEqua\QuadraticEqua\obj\x86\Debug\QuadraticEqua.pdb

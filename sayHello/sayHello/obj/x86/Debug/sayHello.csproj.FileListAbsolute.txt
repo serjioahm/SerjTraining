@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\sayHello\sayHello\bin\Debug\sayHello.exe
+c:\users\jake\documents\visual studio 2010\Projects\sayHello\sayHello\bin\Debug\sayHello.pdb
+c:\users\jake\documents\visual studio 2010\Projects\sayHello\sayHello\obj\x86\Debug\sayHello.exe
+c:\users\jake\documents\visual studio 2010\Projects\sayHello\sayHello\obj\x86\Debug\sayHello.pdb

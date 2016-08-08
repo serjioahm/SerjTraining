@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\GetMaxInt\GetMaxInt\bin\Debug\GetMaxInt.exe
+c:\users\jake\documents\visual studio 2010\Projects\GetMaxInt\GetMaxInt\bin\Debug\GetMaxInt.pdb
+c:\users\jake\documents\visual studio 2010\Projects\GetMaxInt\GetMaxInt\obj\x86\Debug\GetMaxInt.exe
+c:\users\jake\documents\visual studio 2010\Projects\GetMaxInt\GetMaxInt\obj\x86\Debug\GetMaxInt.pdb

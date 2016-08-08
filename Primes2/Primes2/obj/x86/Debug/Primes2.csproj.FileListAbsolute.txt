@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\Primes2\Primes2\bin\Debug\Primes2.exe
+c:\users\jake\documents\visual studio 2010\Projects\Primes2\Primes2\bin\Debug\Primes2.pdb
+c:\users\jake\documents\visual studio 2010\Projects\Primes2\Primes2\obj\x86\Debug\Primes2.exe
+c:\users\jake\documents\visual studio 2010\Projects\Primes2\Primes2\obj\x86\Debug\Primes2.pdb
