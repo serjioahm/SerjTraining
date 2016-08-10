@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\BinerySearch\BinerySearch\bin\Debug\BinerySearch.exe
+c:\users\jake\documents\visual studio 2010\Projects\BinerySearch\BinerySearch\bin\Debug\BinerySearch.pdb
+c:\users\jake\documents\visual studio 2010\Projects\BinerySearch\BinerySearch\obj\x86\Debug\BinerySearch.exe
+c:\users\jake\documents\visual studio 2010\Projects\BinerySearch\BinerySearch\obj\x86\Debug\BinerySearch.pdb
