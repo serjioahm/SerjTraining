@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\CompareTextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.exe
+c:\users\jake\documents\visual studio 2010\Projects\CompareTextFiles\CompareTextFiles\bin\Debug\CompareTextFiles.pdb
+c:\users\jake\documents\visual studio 2010\Projects\CompareTextFiles\CompareTextFiles\obj\x86\Debug\CompareTextFiles.exe
+c:\users\jake\documents\visual studio 2010\Projects\CompareTextFiles\CompareTextFiles\obj\x86\Debug\CompareTextFiles.pdb

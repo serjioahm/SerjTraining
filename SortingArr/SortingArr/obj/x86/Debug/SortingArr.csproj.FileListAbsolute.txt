@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\SortingArr\SortingArr\bin\Debug\SortingArr.exe
+c:\users\jake\documents\visual studio 2010\Projects\SortingArr\SortingArr\bin\Debug\SortingArr.pdb
+c:\users\jake\documents\visual studio 2010\Projects\SortingArr\SortingArr\obj\x86\Debug\SortingArr.exe
+c:\users\jake\documents\visual studio 2010\Projects\SortingArr\SortingArr\obj\x86\Debug\SortingArr.pdb

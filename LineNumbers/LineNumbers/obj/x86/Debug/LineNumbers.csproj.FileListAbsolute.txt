@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\LineNumbers\LineNumbers\bin\Debug\LineNumbers.exe
+c:\users\jake\documents\visual studio 2010\Projects\LineNumbers\LineNumbers\bin\Debug\LineNumbers.pdb
+c:\users\jake\documents\visual studio 2010\Projects\LineNumbers\LineNumbers\obj\x86\Debug\LineNumbers.exe
+c:\users\jake\documents\visual studio 2010\Projects\LineNumbers\LineNumbers\obj\x86\Debug\LineNumbers.pdb

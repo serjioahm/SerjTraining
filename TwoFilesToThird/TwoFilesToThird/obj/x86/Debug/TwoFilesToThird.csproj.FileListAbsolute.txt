@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\TwoFilesToThird\TwoFilesToThird\bin\Debug\TwoFilesToThird.exe
+c:\users\jake\documents\visual studio 2010\Projects\TwoFilesToThird\TwoFilesToThird\bin\Debug\TwoFilesToThird.pdb
+c:\users\jake\documents\visual studio 2010\Projects\TwoFilesToThird\TwoFilesToThird\obj\x86\Debug\TwoFilesToThird.exe
+c:\users\jake\documents\visual studio 2010\Projects\TwoFilesToThird\TwoFilesToThird\obj\x86\Debug\TwoFilesToThird.pdb
