@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\AllocateArrays\AllocateArrays\bin\Debug\AllocateArrays.exe
+c:\users\jake\documents\visual studio 2010\Projects\AllocateArrays\AllocateArrays\bin\Debug\AllocateArrays.pdb
+c:\users\jake\documents\visual studio 2010\Projects\AllocateArrays\AllocateArrays\obj\x86\Debug\AllocateArrays.exe
+c:\users\jake\documents\visual studio 2010\Projects\AllocateArrays\AllocateArrays\obj\x86\Debug\AllocateArrays.pdb

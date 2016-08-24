@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\PrimeNumbersArr\PrimeNumbersArr\bin\Debug\PrimeNumbersArr.exe
+c:\users\jake\documents\visual studio 2010\Projects\PrimeNumbersArr\PrimeNumbersArr\bin\Debug\PrimeNumbersArr.pdb
+c:\users\jake\documents\visual studio 2010\Projects\PrimeNumbersArr\PrimeNumbersArr\obj\x86\Debug\PrimeNumbersArr.exe
+c:\users\jake\documents\visual studio 2010\Projects\PrimeNumbersArr\PrimeNumbersArr\obj\x86\Debug\PrimeNumbersArr.pdb

@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\FindSum\FindSum\bin\Debug\FindSum.exe
+c:\users\jake\documents\visual studio 2010\Projects\FindSum\FindSum\bin\Debug\FindSum.pdb
+c:\users\jake\documents\visual studio 2010\Projects\FindSum\FindSum\obj\x86\Debug\FindSum.exe
+c:\users\jake\documents\visual studio 2010\Projects\FindSum\FindSum\obj\x86\Debug\FindSum.pdb

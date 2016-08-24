@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\MaxIncreasingSeq\MaxIncreasingSeq\bin\Debug\MaxIncreasingSeq.exe
+c:\users\jake\documents\visual studio 2010\Projects\MaxIncreasingSeq\MaxIncreasingSeq\bin\Debug\MaxIncreasingSeq.pdb
+c:\users\jake\documents\visual studio 2010\Projects\MaxIncreasingSeq\MaxIncreasingSeq\obj\x86\Debug\MaxIncreasingSeq.exe
+c:\users\jake\documents\visual studio 2010\Projects\MaxIncreasingSeq\MaxIncreasingSeq\obj\x86\Debug\MaxIncreasingSeq.pdb

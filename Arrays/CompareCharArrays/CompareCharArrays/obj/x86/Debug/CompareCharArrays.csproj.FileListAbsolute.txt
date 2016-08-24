@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\CompareCharArrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+c:\users\jake\documents\visual studio 2010\Projects\CompareCharArrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+c:\users\jake\documents\visual studio 2010\Projects\CompareCharArrays\CompareCharArrays\obj\x86\Debug\CompareCharArrays.exe
+c:\users\jake\documents\visual studio 2010\Projects\CompareCharArrays\CompareCharArrays\obj\x86\Debug\CompareCharArrays.pdb

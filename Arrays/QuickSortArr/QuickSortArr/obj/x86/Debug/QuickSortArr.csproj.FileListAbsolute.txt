@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\QuickSortArr\QuickSortArr\bin\Debug\QuickSortArr.exe
+c:\users\jake\documents\visual studio 2010\Projects\QuickSortArr\QuickSortArr\bin\Debug\QuickSortArr.pdb
+c:\users\jake\documents\visual studio 2010\Projects\QuickSortArr\QuickSortArr\obj\x86\Debug\QuickSortArr.exe
+c:\users\jake\documents\visual studio 2010\Projects\QuickSortArr\QuickSortArr\obj\x86\Debug\QuickSortArr.pdb

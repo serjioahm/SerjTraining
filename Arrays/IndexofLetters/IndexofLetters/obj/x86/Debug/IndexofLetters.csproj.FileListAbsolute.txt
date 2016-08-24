@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\IndexofLetters\IndexofLetters\bin\Debug\IndexofLetters.exe
+c:\users\jake\documents\visual studio 2010\Projects\IndexofLetters\IndexofLetters\bin\Debug\IndexofLetters.pdb
+c:\users\jake\documents\visual studio 2010\Projects\IndexofLetters\IndexofLetters\obj\x86\Debug\IndexofLetters.exe
+c:\users\jake\documents\visual studio 2010\Projects\IndexofLetters\IndexofLetters\obj\x86\Debug\IndexofLetters.pdb
