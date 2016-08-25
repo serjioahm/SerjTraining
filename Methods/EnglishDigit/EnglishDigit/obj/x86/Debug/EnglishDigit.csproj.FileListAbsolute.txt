@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\Methods\EnglishDigit\EnglishDigit\bin\Debug\EnglishDigit.exe
+c:\users\jake\documents\visual studio 2010\Projects\Methods\EnglishDigit\EnglishDigit\bin\Debug\EnglishDigit.pdb
+c:\users\jake\documents\visual studio 2010\Projects\Methods\EnglishDigit\EnglishDigit\obj\x86\Debug\EnglishDigit.exe
+c:\users\jake\documents\visual studio 2010\Projects\Methods\EnglishDigit\EnglishDigit\obj\x86\Debug\EnglishDigit.pdb
