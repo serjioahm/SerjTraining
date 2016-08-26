@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\Methods\IntegerCalculations\IntegerCalculations\bin\Debug\IntegerCalculations.exe
+c:\users\jake\documents\visual studio 2010\Projects\Methods\IntegerCalculations\IntegerCalculations\bin\Debug\IntegerCalculations.pdb
+c:\users\jake\documents\visual studio 2010\Projects\Methods\IntegerCalculations\IntegerCalculations\obj\x86\Debug\IntegerCalculations.exe
+c:\users\jake\documents\visual studio 2010\Projects\Methods\IntegerCalculations\IntegerCalculations\obj\x86\Debug\IntegerCalculations.pdb

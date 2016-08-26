@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\Methods\Nfactorial\Nfactorial\bin\Debug\Nfactorial.exe
+c:\users\jake\documents\visual studio 2010\Projects\Methods\Nfactorial\Nfactorial\bin\Debug\Nfactorial.pdb
+c:\users\jake\documents\visual studio 2010\Projects\Methods\Nfactorial\Nfactorial\obj\x86\Debug\Nfactorial.exe
+c:\users\jake\documents\visual studio 2010\Projects\Methods\Nfactorial\Nfactorial\obj\x86\Debug\Nfactorial.pdb

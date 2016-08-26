@@ -1,0 +1,4 @@
+c:\users\jake\documents\visual studio 2010\Projects\Methods\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.exe
+c:\users\jake\documents\visual studio 2010\Projects\Methods\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.pdb
+c:\users\jake\documents\visual studio 2010\Projects\Methods\ReverseNumber\ReverseNumber\obj\x86\Debug\ReverseNumber.exe
+c:\users\jake\documents\visual studio 2010\Projects\Methods\ReverseNumber\ReverseNumber\obj\x86\Debug\ReverseNumber.pdb
